@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Python <br>Fun fact I spend time exploring new repos
+I'm currently learning Python <br>Fun fact: I spend time exploring new repos
 
 
 ## 🌐 Socials:
