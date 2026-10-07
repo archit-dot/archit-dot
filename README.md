@@ -3,7 +3,7 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · archit-dot</sub></p>
+<p><sub> You can call me👋🏻 · archit-dot</sub></p>
 <h1>Archit</h1>
 <h2>Python developer , currently learning AI/ML</h2>
 <p>Building useful software and sharing the work in public.</p>
